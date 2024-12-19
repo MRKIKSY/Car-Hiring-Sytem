@@ -41,5 +41,5 @@
 ### Admin panel
 ![alt text](https://i.ibb.co.com/y4L94kc/items.png)
 
-#Thank you.💖💖💖
+# Thank you.💖💖💖
 
