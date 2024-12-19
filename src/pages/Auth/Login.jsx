@@ -43,11 +43,11 @@ const Login = () => {
                 <h2 className="text-2xl sm:text-3xl font-bold text-center pb-4">Log In</h2>
                 <div>
                     <p className="text-sm pb-1">Email address : </p>
-                    <input type="email" name="email" placeholder="Email" required className="border p-2 text-[15px] font-semibold text-gray-600 w-full outline-purple-400 bg-gray-200 rounded-lg" />
+                    <input type="email" name="email" defaultValue="admin@gmail.com" placeholder="Email" required className="border p-2 text-[15px] font-semibold text-gray-600 w-full outline-purple-400 bg-gray-200 rounded-lg" />
                 </div>
                 <div>
                     <p className="text-sm pb-1">Password : </p>
-                    <input type="password" name="password" placeholder="********" required className="border p-2 text-[15px] font-semibold text-gray-600 w-full outline-purple-400 bg-gray-200 rounded-lg" />
+                    <input type="password" name="password" placeholder="********" defaultValue="123456" required className="border p-2 text-[15px] font-semibold text-gray-600 w-full outline-purple-400 bg-gray-200 rounded-lg" />
                 </div>
 
                 <div>
