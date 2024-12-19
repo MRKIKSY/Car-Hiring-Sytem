@@ -35,3 +35,9 @@
 ### CARS
 ![alt text](https://i.ibb.co.com/jy0S5N4/cars.png)
 
+### Admin panel
+![alt text](https://i.ibb.co.com/5Gr9QCW/admin.png)
+![alt text](https://i.ibb.co.com/y4L94kc/items.png)
+
+<h2 color:'green'>Thanks</h2>
+
