@@ -37,7 +37,9 @@
 
 ### Admin panel
 ![alt text](https://i.ibb.co.com/5Gr9QCW/admin.png)
+
+### Admin panel
 ![alt text](https://i.ibb.co.com/y4L94kc/items.png)
 
-<h2 color:'green'>Thanks</h2>
+#Thank you.💖💖💖
 
