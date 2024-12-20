@@ -30,7 +30,7 @@
 - React-router-dom
 
 ### HOME
-![alt text](https://i.ibb.co.com/C7Mg8ht/home.png)
+![alt text](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.15752-9/462579957_882849947264899_7991142668417091150_n.png?stp=dst-png_s1080x2048&_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGYQZGX9ALEGllOAwclZjgDHPVdPF_iTxAc9V08X-JPEAg5DI1WXkobwME8rWkU68XJI-21mwLNZDa8H0jFVMCq&_nc_ohc=YjMUv8AavZQQ7kNvgFebW6y&_nc_zt=23&_nc_ht=scontent.fjsr8-1.fna&oh=03_Q7cD1gHImlGFGERQbWbn4WPEPZNici7_E_i6WiYpZdiQ78Pa9Q&oe=678C8E38)
 
 ### About
 ![alt text](https://i.ibb.co.com/FwYtSF3/about.png)
