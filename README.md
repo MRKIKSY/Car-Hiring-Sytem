@@ -33,7 +33,7 @@
 ![alt text](https://iili.io/2NfViE7.png)
 
 ### About
-![alt text](https://i.ibb.co.com/FwYtSF3/about.png)
+![alt text](https://iili.io/2NfhvYF.md.png)
 
 ### CARS
 ![alt text](https://i.ibb.co.com/jy0S5N4/cars.png)
