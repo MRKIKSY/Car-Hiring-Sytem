@@ -10,7 +10,7 @@ const Details = () => {
          <div className='basis-[50%] space-y-6'>
             <h1 className='text-3xl sm:text-4xl md:text-5xl font-semibold font-serif'><span className='text-[#960bd2]'>Car - Hire</span></h1>
             <p className='sm:text-2xl text-xl font-light'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-            <h2 className='text-xl sm:text-3xl font-semibold text-[#8a54ed]'>+880 1875778050</h2>
+            <h2 className='text-xl sm:text-3xl font-semibold text-[#8a54ed]'>+447591683924</h2>
             <Link to='/' className='btn inline-block'>Get a Car</Link>
          </div>
       </div>

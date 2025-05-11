@@ -8,7 +8,7 @@ const Banner = () => {
             <div className='basis-[48%] space-y-6'>
                 <div className=' bg-purple-50 w-56 text-center border border-purple-200 py-2 px-4  rounded-full flex items-center space-x-2 '>
                     <img src={icon} alt="" className='w-8' />
-                    <h3 className='font-serif font-light  text-purple-600 italic'>Explore The World</h3>
+                    <h3 className='font-serif font-light  text-purple-600 italic'>JUMOKE CAR HIRE</h3>
 
                 </div>
                 <h1 className="text-4xl font-extrabold md:text-6xl font-serif" style={{ lineHeight: '4rem' }}>

@@ -6,25 +6,25 @@ const Agent = () => {
       {
          id : 1,
          photo : 'https://travila.alithemes.com/wp-content/uploads/2024/10/team-new6.webp',
-         name : 'Sadixova SA',
+         name : ' MR KIKSY 1 ',
          designation : 'HR, ABC Company'
       },
       {
          id : 2,
          photo : 'https://travila.alithemes.com/wp-content/uploads/2024/10/team-new4.webp',
-         name : 'Rebeca Welson',
+         name : 'MR KIKSY 2 ',
          designation : 'HR, ABC Company'
       },
       {
          id : 3,
          photo : 'https://travila.alithemes.com/wp-content/uploads/2024/10/team-new5.webp',
-         name : 'Sadixova SA',
+         name : 'MR KIKSY 3',
          designation : 'HR, ABC Company'
       },
       {
          id : 4,
          photo : 'https://travila.alithemes.com/wp-content/uploads/2024/10/team-new1.webp',
-         name : 'Sadixova SA',
+         name : 'MR KIKSY 4',
          designation : 'HR, ABC Company'
       }
    ]

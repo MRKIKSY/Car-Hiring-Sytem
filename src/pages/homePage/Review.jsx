@@ -10,35 +10,35 @@ const Review = () => {
       {
          id : 1,
          photo : 'https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg',
-         name : 'MD Arman Khan',
+         name : 'MR KIKSY 1 ',
          desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores deserunt ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis pariatur minus consequuntur!',
          company : 'HR, XYZ Company'
       },
       {
          id : 2,
          photo : 'https://i.ibb.co.com/m4xS62K/pexels-anntarazevich-5234256.jpg',
-         name : 'Jahir Don',
+         name : 'MR KIKSY 2',
          desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores deserunt ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis pariatur minus consequuntur!',
          company : 'HR, ABC Company'
       },
       {
          id : 3,
          photo : 'https://i.ibb.co.com/qn4FL6C/pexels-nikitash-21839018.jpg',
-         name : 'Shetej jaw',
+         name : 'MR KIKSY 3',
          desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores deserunt ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis pariatur minus consequuntur!',
          company : 'HR, XYZ Company'
       },
       {
          id : 4,
          photo : 'https://i.ibb.co.com/yXjGjdW/arman-2545.jpg',
-         name : 'John Dey',
+         name : 'MR KIKSY 4 ',
          desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores deserunt ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis pariatur minus consequuntur!',
          company : 'HR, XYZ Company'
       },
       {
          id : 5,
          photo : 'https://i.ibb.co.com/mCHjCgb/61910047-476580143080947-7064381149266575360-n.jpg',
-         name : 'Roki khan',
+         name : 'MR KIKSY 5',
          desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores deserunt ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis pariatur minus consequuntur!',
          company : 'HR, XYZ Company'
       },

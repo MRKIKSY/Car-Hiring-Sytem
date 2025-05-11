@@ -124,8 +124,8 @@ const CardDetails = () => {
                      </div>
 
                      <div className={`text-justify space-y-4 overflow-hidden transition-all duration-1000 ${show ? 'max-h-0' : 'max-h-screen '}`}>
-                        <p className="text-[15px] font-light">Elevate your Las Vegas experience to new heights with a journey aboard The High Roller at The LINQ. As the tallest observation wheel in the world, standing at an impressive 550 feet tall, The High Roller offers a bird's-eye perspective of the iconic Las Vegas Strip and its surrounding desert landscape. From the moment you step into one of the spacious cabins, you'll be transported on a mesmerizing adventure, where every turn offers a new and breathtaking vista of the vibrant city below.</p>
-                        <p className="text-[15px] font-light">Whether you're a first-time visitor or a seasoned Las Vegas aficionado, The High Roller promises an unparalleled experience that will leave you in awe. With its climate-controlled cabins and immersive audio commentary, this attraction provides a unique opportunity to see Las Vegas from a whole new perspective, while learning about its rich history and famous landmarks along the way.</p>
+                        <p className="text-[15px] font-light">Elevate your experience in Nigeria with a breathtaking ride on the Lagos SkyWheel at Landmark Beach. Soaring above the Atlantic coastline at an impressive height, the SkyWheel offers a stunning bird’s-eye view of Victoria Island’s skyline, the bustling shoreline, and the endless blue waters beyond. Step into one of the spacious cabins and embark on a captivating journey where every rotation reveals a new and vibrant perspective of Lagos—from the lively beachgoers below to the urban charm that defines the city.</p>
+                        <p className="text-[15px] font-light">Whether you're visiting Lagos for the first time or you're a seasoned explorer of the city, the Lagos SkyWheel promises an unforgettable experience that will leave you inspired. With its climate-controlled cabins and optional audio guides, this attraction offers a unique chance to view Lagos from above—taking in its rich history, vibrant culture, and iconic landmarks like the Lekki-Ikoyi Bridge, Tafawa Balewa Square, and the Atlantic coastline—all from a stunning new perspective..</p>
                      </div>
                   </div>
 
@@ -148,9 +148,9 @@ const CardDetails = () => {
                         <p className="font-semibold">Max-Guests : {seats - 1}</p>
 
                      </div>
-                     <p className="text-lg font-semibold">Price for one day : <span className="text-blue-600">${price}</span></p>
+                     <p className="text-lg font-semibold">Price for one day : <span className="text-blue-600">₦{price}</span></p>
                      <hr />
-                     <p className="text-lg font-semibold">Total Price : <span className="text-green-600">${price}</span></p>
+                     <p className="text-lg font-semibold">Total Price : <span className="text-green-600">₦{price}</span></p>
                      {
                         user ? <input type="submit" value="Book" className="bg-purple-600 text-white p-2.5 rounded-md w-full text-sm font-semibold cursor-pointer active:bg-purple-700" /> : <p className="text-sm text-red-600 bg-red-50 p-2.5 rounded-sm text-center">please <Link to='/login' className="hover:underline">login</Link> or <Link to='/register' className="hover:underline">register</Link> to book the car.</p>
                      }
